@@ -1,0 +1,7 @@
+node_modules/
+dist/
+build/ 
+.terraform/
+.terraform.lock.hcl
+main.tf
+terraform.tfstate
